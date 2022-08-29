@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIogvtpLxkhZpw97DnQEBgdNAvuU/BxmIDGQDEr9ZuwUfE9lq/E+qEMQ46QVfxmgwc1366BkYZ09ijhgkL177g==",
+  "success": true,
+  "projectFilePath": "/Users/alexandram/Projects/untitled folder/Calculator/CalculatorApp/CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandram/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
+    "/Users/alexandram/.nuget/packages/moq/4.18.2/moq.4.18.2.nupkg.sha512",
+    "/Users/alexandram/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
